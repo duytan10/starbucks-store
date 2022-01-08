@@ -77,13 +77,6 @@
             <artifactId>lombok</artifactId>
         </dependency>
 
-        <!--flywaydb-->
-        <dependency>
-            <groupId>org.flywaydb</groupId>
-            <artifactId>flyway-core</artifactId>
-            <version>5.2.4</version>
-        </dependency>
-
         <!-- JAXB -->
         <dependency>
             <groupId>javax.xml.bind</groupId>
